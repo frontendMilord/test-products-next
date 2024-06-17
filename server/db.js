@@ -14,7 +14,7 @@ export function generateData() {
 		{
 			id: 2,
 			name: 'Пользователь',
-			pages: ['/products', '/algorithms', '/'],
+			pages: ['/products', '/'],
 		}
 	);
 
